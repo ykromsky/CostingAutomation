@@ -1,0 +1,77 @@
+C:\Users\design10\Desktop\CODING\PROJECTS\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\StandardVesselEstimator.dll
+C:\Users\design10\Desktop\CODING\PROJECTS\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\StandardVesselEstimator.pdb
+C:\Users\design10\Desktop\CODING\PROJECTS\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\StandardVesselEstimator.dll.manifest
+C:\Users\design10\Desktop\CODING\PROJECTS\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\StandardVesselEstimator.vsto
+C:\Users\design10\Desktop\CODING\PROJECTS\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\design10\Desktop\CODING\PROJECTS\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\design10\Desktop\CODING\PROJECTS\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\design10\Desktop\CODING\PROJECTS\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\design10\Desktop\CODING\PROJECTS\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\design10\Desktop\CODING\PROJECTS\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\design10\Desktop\CODING\PROJECTS\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.csprojResolveAssemblyReference.cache
+C:\Users\design10\Desktop\CODING\PROJECTS\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.CustomRibbon.resources
+C:\Users\design10\Desktop\CODING\PROJECTS\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.Properties.Resources.resources
+C:\Users\design10\Desktop\CODING\PROJECTS\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.VesselSelectionForm.resources
+C:\Users\design10\Desktop\CODING\PROJECTS\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.csproj.GenerateResource.Cache
+C:\Users\design10\Desktop\CODING\PROJECTS\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.dll
+C:\Users\design10\Desktop\CODING\PROJECTS\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.pdb
+C:\Users\yurik\Desktop\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\StandardVesselEstimator.dll
+C:\Users\yurik\Desktop\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\StandardVesselEstimator.pdb
+C:\Users\yurik\Desktop\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\StandardVesselEstimator.dll.manifest
+C:\Users\yurik\Desktop\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\StandardVesselEstimator.vsto
+C:\Users\yurik\Desktop\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\yurik\Desktop\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\yurik\Desktop\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\yurik\Desktop\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\yurik\Desktop\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\yurik\Desktop\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\yurik\Desktop\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.csprojResolveAssemblyReference.cache
+C:\Users\yurik\Desktop\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.CustomRibbon.resources
+C:\Users\yurik\Desktop\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.Properties.Resources.resources
+C:\Users\yurik\Desktop\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.VesselSelectionForm.resources
+C:\Users\yurik\Desktop\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.csproj.GenerateResource.Cache
+C:\Users\yurik\Desktop\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.dll
+C:\Users\yurik\Desktop\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.pdb
+C:\Users\yurik\Desktop\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.csproj.CoreCompileInputs.cache
+C:\Users\yurik\Desktop\costing project\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\StandardVesselEstimator.dll
+C:\Users\yurik\Desktop\costing project\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\StandardVesselEstimator.pdb
+C:\Users\yurik\Desktop\costing project\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\StandardVesselEstimator.dll.manifest
+C:\Users\yurik\Desktop\costing project\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\StandardVesselEstimator.vsto
+C:\Users\yurik\Desktop\costing project\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\yurik\Desktop\costing project\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\yurik\Desktop\costing project\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\yurik\Desktop\costing project\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\yurik\Desktop\costing project\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\yurik\Desktop\costing project\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\yurik\Desktop\costing project\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.CustomRibbon.resources
+C:\Users\yurik\Desktop\costing project\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.MainForm.resources
+C:\Users\yurik\Desktop\costing project\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.PackageSelectionForm.resources
+C:\Users\yurik\Desktop\costing project\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.Properties.Resources.resources
+C:\Users\yurik\Desktop\costing project\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.VesselSelectionForm.resources
+C:\Users\yurik\Desktop\costing project\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.csproj.GenerateResource.Cache
+C:\Users\yurik\Desktop\costing project\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.csproj.CoreCompileInputs.cache
+C:\Users\yurik\Desktop\costing project\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.dll
+C:\Users\yurik\Desktop\costing project\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.pdb
+C:\Users\yurik\Desktop\costing project\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.csprojResolveAssemblyReference.cache
+C:\Users\yurik\Desktop\costing project\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.LiqFeedSelectionForm.resources
+C:\Users\Yuri\Desktop\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\StandardVesselEstimator.dll
+C:\Users\Yuri\Desktop\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\StandardVesselEstimator.pdb
+C:\Users\Yuri\Desktop\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\StandardVesselEstimator.dll.manifest
+C:\Users\Yuri\Desktop\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\StandardVesselEstimator.vsto
+C:\Users\Yuri\Desktop\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\Yuri\Desktop\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Yuri\Desktop\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\Yuri\Desktop\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\Yuri\Desktop\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Yuri\Desktop\StandardVesselEstimator\StandardVesselEstimator\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Yuri\Desktop\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.CustomRibbon.resources
+C:\Users\Yuri\Desktop\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.LiqFeedSelectionForm.resources
+C:\Users\Yuri\Desktop\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.MainForm.resources
+C:\Users\Yuri\Desktop\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.PackageSelectionForm.resources
+C:\Users\Yuri\Desktop\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.Properties.Resources.resources
+C:\Users\Yuri\Desktop\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.VesselSelectionForm.resources
+C:\Users\Yuri\Desktop\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.csproj.GenerateResource.Cache
+C:\Users\Yuri\Desktop\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.csproj.CoreCompileInputs.cache
+C:\Users\Yuri\Desktop\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.dll
+C:\Users\Yuri\Desktop\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.pdb
+C:\Users\Yuri\Desktop\StandardVesselEstimator\StandardVesselEstimator\obj\Debug\StandardVesselEstimator.csprojResolveAssemblyReference.cache
